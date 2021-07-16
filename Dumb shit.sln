@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31512.422
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dumb shit", "Dumb shit\Dumb shit.pyproj", "{C3F592CB-DD6F-4316-A14E-399A3A37242D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3F592CB-DD6F-4316-A14E-399A3A37242D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F592CB-DD6F-4316-A14E-399A3A37242D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB7C463-5172-4A03-ABBA-6EE63330D20E}
+	EndGlobalSection
+EndGlobal
